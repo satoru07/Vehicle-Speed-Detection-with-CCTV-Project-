@@ -5,7 +5,7 @@ import math
 
 
 carCascade = cv2.CascadeClassifier('vech.xml')
-video = cv2.VideoCapture('1.mp4')
+video = cv2.VideoCapture('Test_Video.mp4')
 
 WIDTH = 720
 HEIGHT = 480
